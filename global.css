@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --body-nunito-sans-bold-14: "Nunito Sans";
+  --font-maven-pro: "Maven Pro";
+
+  /* font sizes */
+  --font-size-7xs-2: 5.2px;
+  --font-size-8xs-5: 4.5px;
+  --font-size-7xs-9: 5.9px;
+  --font-size-6xs-7: 6.7px;
+  --font-size-xs-9: 11.9px;
+  --font-size-lg-9: 18.9px;
+  --body-nunito-sans-bold-14-size: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --grey-white: #fff;
+  --color-slateblue: #7042c0;
+  --primer: #dc4298;
+  --primary-primary-1: #1c1d4e;
+  --black: #230f0f;
+  --grey-black: #0a0a0a;
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --primary-primary-3: #777795;
+  --grey-grey-2: #4d4d4d;
+  --grey-grey-5: #eceff4;
+
+  /* Gaps */
+  --gap-12xs-7: 0.7px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-10xs-2: 2.2px;
+  --padding-7xs-6: 5.6px;
+  --padding-9xs-3: 3.3px;
+  --padding-xs-1: 11.1px;
+
+  /* Border radiuses */
+  --br-5xl: 24px;
+  --br-10xs: 3px;
+  --br-5xs-4: 7.4px;
+  --br-7xl: 26px;
+  --br-5xs: 8px;
+}
